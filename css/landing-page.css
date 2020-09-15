@@ -124,3 +124,15 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+/* Additional styles */
+.bg-about {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  display: block;
+  margin-top: 100px;
+}
+
+.bg-about p {
+  
+}
