@@ -126,13 +126,13 @@ footer.footer {
 }
 
 /* Additional styles */
-.bg-about {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-  display: block;
-  margin-top: 100px;
+.about-row-item-text {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50em;
 }
 
-.bg-about p {
-  
+.about-row-item-img {
+  margin-left: auto;
+  margin-right: auto;
 }
