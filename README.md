@@ -1,2 +1,2 @@
 # Landing Page for Healthcare Startup
-Hello world
+This is a basic landing page used to attract parties interested in participating in preliminary research for our upcoming venture. This company's mission is to provide accurate and useful data to patients regarding their healthcare costs. Our goal is to break down the barriers that exist in pricing healthcare services.
